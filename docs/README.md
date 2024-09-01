@@ -1,6 +1,6 @@
 # 前言
 
-![logo](docs\sources\icon.png ":size=WIDTHxHEIGHT")
+![logo](sources\icon.png ":size=WIDTHxHEIGHT")
 
 如你所见，这是一本专属于福鼎市第一中学的同学的生存手册。
 
