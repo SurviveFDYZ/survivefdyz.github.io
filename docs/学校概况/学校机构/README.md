@@ -14,6 +14,6 @@
 
 ### 借阅证
 
-![借阅证正面](sources/lib1.jpg "借阅证正面")
+![借阅证正面](/docs/sources/lib1.jpg "借阅证正面")
 
-![借阅证背面](sources/lib2.jpg "借阅证背面")
+![借阅证背面](/docs/sources/lib2.jpg "借阅证背面")
