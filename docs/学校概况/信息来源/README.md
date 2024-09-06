@@ -5,7 +5,10 @@
 - 百度贴吧 [福鼎一中吧](https://tieba.baidu.com/f?kw=%E7%A6%8F%E9%BC%8E%E4%B8%80%E4%B8%AD) 这里有关于福鼎一中较为早期的信息
 
 - QQ **福鼎一中万能墙** 3297813643
+\
 
 - QQ频道 [猫猫头分享基地](https://pd.qq.com/s/8efn5qd0q) 与福鼎一中无强相关性，但是有可观数量的福鼎一中学生在频道里
 
 - [福鼎一中官网](http://www.fdyz.net.cn/) 目前已无法打开，推测是学校在将重心转移至微信公众号后停运？
+
+- [福鼎一中图书馆官网](https://www.csln.net/fdyzlib)
